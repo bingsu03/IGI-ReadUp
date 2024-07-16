@@ -1,1 +1,1 @@
-# IGI-ReadUp
+# IGI AI-Team ReadUp List
