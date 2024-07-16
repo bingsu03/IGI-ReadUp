@@ -11,6 +11,7 @@
 | [Prompt engineering is all you need](https://arxiv.org/pdf/2306.01987) (2024) | AdbGPT uses prompt-based Large Language Models to efficiently and effectively reproduce bugs from reports, surpassing current methods without manual patterns or training. |
 | [Survey on mitigating Hallucination](https://arxiv.org/abs/2404.18930) (2024) | This survey examines hallucinations in multimodal large language models (MLLMs), reviewing methods for detecting and mitigating these inaccuracies, and highlighting challenges and future research directions. |
 
+
 ## Multimodal AI
 
 | Title | Description |
